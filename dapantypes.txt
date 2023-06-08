@@ -1,0 +1,63 @@
+EXPENSE_TYPE_LIST
+{
+	EXPENSE_TYPE
+	{
+		TYPE 1
+		CODE 1
+		DESCR metakinisi
+		MAX-COMP 500.0
+		RATE-COMPENSATION 0.6
+	}
+	EXPENSE_TYPE
+	{
+		TYPE 1
+		CODE 2
+		DESCR aeroporika
+		MAX-COMP 300.0
+		RATE-COMPENSATION 0.25
+	}
+	EXPENSE_TYPE
+	{
+		TYPE 1
+		CODE 3
+		DESCR voucher
+		MAX-COMP 200.0
+		RATE-COMPENSATION 0.6
+	}
+	EXPENSE_TYPE
+	{
+		TYPE 2
+		CODE 4
+		DESCR odoiporika
+		MAX-COMP 600.0
+		PRICE/UNIT 3.0
+		UNIT km
+	}
+	EXPENSE_TYPE
+	{
+		TYPE 2
+		CODE 5
+		DESCR diatrofi
+		MAX-COMP 400.0
+		PRICE/UNIT 4.0
+		UNIT day
+	}
+	EXPENSE_TYPE
+	{
+		TYPE 2
+		CODE 6
+		DESCR diamonh
+		MAX-COMP 550.0
+		PRICE/UNIT 50.0
+		UNIT day
+	}
+	EXPENSE_TYPE
+	{
+		TYPE 2
+		CODE 10902
+		DESCR teleiwse_h_ergasia
+		MAX-COMP 120.0
+		PRICE/UNIT 12.0
+		UNIT days
+	}
+}
